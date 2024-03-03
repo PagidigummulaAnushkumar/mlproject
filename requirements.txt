@@ -8,5 +8,4 @@ xgboost
 catboost
 flask
 pickle5
-bottle
 # -e .
